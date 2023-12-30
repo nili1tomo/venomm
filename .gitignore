@@ -8,7 +8,6 @@ vendor/
 dist/
 venom.log
 *.so
-foo.yml
 dist
 results
 bin.test
